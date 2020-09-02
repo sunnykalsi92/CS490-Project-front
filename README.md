@@ -1,8 +1,3 @@
-Note: Normally I never give a written description of what I expect you to implement for the project. For reasons I will discuss in the lectures I normally prefer an agile approach where I play the role of the product owner and simply tell you what I want. It is up to you to make that happen.
-
-However, due to the tight summer schedule and the slightly limited communication allowed by online classes I have decided to give you the following written project description. I am sure that some of it will be unclear to you and you will have many questions. I reserve the right to modify or clarify as needed.
-
-
 Your Project:
 
 You are to create an online exam system.The only type of question  will be similar to the open ended programming questions on a CS 100 (Python) exam. In fact, all questions will be of the following form:
